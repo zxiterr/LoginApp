@@ -16,7 +16,7 @@ namespace LoginApp
         public HomeForm(string fullName)
         {
             InitializeComponent();
-            lblHalo.Text = "Selamat Datang, " + fullName;
+            lblHalo.Text = "Selamat Datang zio, " + fullName;
         }
       
         private void HomeForm_Load(object sender, EventArgs e)
